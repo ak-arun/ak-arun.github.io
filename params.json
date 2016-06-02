@@ -1,6 +1,6 @@
 {
-  "name": "Arun A K - My Home",
-  "tagline": "Lets try to shield the data rain with our umbrellas held upright",
-  "body": "Welcome to my Home Page - TBD\r\n\r\n* [My Hadoop Experiments](https://github.com/ak-arun/hadoop)\r\n* [My Spark Experiments](https://github.com/ak-arun/spark) \r\n",
+  "name": "Arun A K - My BigData Tricks",
+  "tagline": "Hold your umbrella upright - it is raining DATA ",
+  "body": "> # Welcome to my Home Page - TBD\r\n***\r\n\r\n\r\n* [My Hadoop Experiments](https://github.com/ak-arun/hadoop)\r\n* [My Spark Experiments](https://github.com/ak-arun/spark) \r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
